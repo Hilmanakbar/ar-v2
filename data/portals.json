@@ -2,14 +2,21 @@
   "planArea": {
     "name": "Denah Area Konservasi Flora Tropis",
     "description": "Peta koordinat penempatan flora untuk Augmented Reality berbasis titik koordinat plan area.",
-    "gridSize": { "x": 100, "y": 100 },
+    "gridSize": {
+      "x": 100,
+      "y": 100
+    },
     "points": [
       {
         "id": "point-pteris-biaurita",
         "code": "P-01",
         "name": "Pteris biaurita",
         "category": "Pteridaceae",
-        "coord": { "x": 35, "y": 45, "z": 0 },
+        "coord": {
+          "x": 35,
+          "y": 45,
+          "z": 0
+        },
         "modelFile": "models/pteris-biaurita.fbx",
         "format": "fbx",
         "status": "active",
@@ -26,7 +33,11 @@
         "code": "P-02",
         "name": "Nephrolepis exaltata",
         "category": "Nephrolepidaceae",
-        "coord": { "x": 70, "y": 30, "z": 0 },
+        "coord": {
+          "x": 70,
+          "y": 30,
+          "z": 0
+        },
         "modelFile": "models/pteris-biaurita.fbx",
         "format": "fbx",
         "status": "active",
@@ -43,7 +54,11 @@
         "code": "P-03",
         "name": "Asplenium nidus",
         "category": "Aspleniaceae",
-        "coord": { "x": 25, "y": 80, "z": 0 },
+        "coord": {
+          "x": 25,
+          "y": 80,
+          "z": 0
+        },
         "modelFile": "models/pteris-biaurita.fbx",
         "format": "fbx",
         "status": "active",
@@ -62,7 +77,9 @@
       "id": "portal-pteris-biaurita",
       "name": "Portal Flora: Pteris biaurita",
       "description": "Pengalaman Augmented Reality interaktif tanaman pakis tropis Pteris biaurita (Pteridaceae).",
-      "modelIds": ["model-pteris-biaurita"],
+      "modelIds": [
+        "model-pteris-biaurita"
+      ],
       "createdAt": "2026-11-08T12:00:00.000Z"
     }
   ],
@@ -76,6 +93,16 @@
       "path": "models/pteris-biaurita.fbx",
       "url": "models/pteris-biaurita.fbx",
       "createdAt": "2026-11-08T12:00:00.000Z"
+    },
+    {
+      "id": "mw9ljtndz9rcaw3aqz",
+      "name": "Pink Lotus Flower Cluster",
+      "format": "gltf",
+      "description": "Pink Lotus Flower Cluster",
+      "filename": "1794249034386_scene.gltf",
+      "path": "models/1794249034386_scene.gltf",
+      "url": "https://raw.githubusercontent.com/Hilmanakbar/ar-v2/main/models/1794249034386_scene.gltf",
+      "createdAt": "2026-11-09T18:30:37.274Z"
     }
   ],
   "version": "2.0",
