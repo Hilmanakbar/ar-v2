@@ -81,6 +81,15 @@
         "model-pteris-biaurita"
       ],
       "createdAt": "2026-11-08T12:00:00.000Z"
+    },
+    {
+      "id": "mw9lo0awq9r3el6955l",
+      "name": "Pink Lotus Flower Cluster",
+      "description": "Pink Lotus Flower Cluster",
+      "modelIds": [
+        "mw9ljtndz9rcaw3aqz"
+      ],
+      "createdAt": "2026-11-09T18:33:52.520Z"
     }
   ],
   "models": [
@@ -103,16 +112,6 @@
       "path": "models/1794249034386_scene.gltf",
       "url": "https://raw.githubusercontent.com/Hilmanakbar/ar-v2/main/models/1794249034386_scene.gltf",
       "createdAt": "2026-11-09T18:30:37.274Z"
-    },
-    {
-      "id": "mw9lmo5pi5akle8l5tb",
-      "name": "Pink Lotus Flower Cluster",
-      "format": "glb",
-      "description": "Pink Lotus Flower Cluster",
-      "filename": "1794249128033_CCT2.glb",
-      "path": "models/1794249128033_CCT2.glb",
-      "url": "https://raw.githubusercontent.com/Hilmanakbar/ar-v2/main/models/1794249128033_CCT2.glb",
-      "createdAt": "2026-11-09T18:32:50.125Z"
     }
   ],
   "version": "2.0",
