@@ -1,0 +1,83 @@
+{
+  "planArea": {
+    "name": "Denah Area Konservasi Flora Tropis",
+    "description": "Peta koordinat penempatan flora untuk Augmented Reality berbasis titik koordinat plan area.",
+    "gridSize": { "x": 100, "y": 100 },
+    "points": [
+      {
+        "id": "point-pteris-biaurita",
+        "code": "P-01",
+        "name": "Pteris biaurita",
+        "category": "Pteridaceae",
+        "coord": { "x": 35, "y": 45, "z": 0 },
+        "modelFile": "models/pteris-biaurita.fbx",
+        "format": "fbx",
+        "status": "active",
+        "description": "Pteris biaurita (pakis bertelinga ganda) adalah tumbuhan paku terrestrial dari famili Pteridaceae. Memiliki daun majemuk menyirip (pinnate) sepanjang 60–120 cm dengan percabangan basal ganda yang khas. Sangat adaptif di lantai hutan hujan lembap dan lereng berbatu ternaungi.",
+        "taxonomy": {
+          "kingdom": "Plantae",
+          "divisi": "Pteridophyta",
+          "famili": "Pteridaceae",
+          "spesies": "Pteris biaurita L."
+        }
+      },
+      {
+        "id": "point-nephrolepis",
+        "code": "P-02",
+        "name": "Nephrolepis exaltata",
+        "category": "Nephrolepidaceae",
+        "coord": { "x": 70, "y": 30, "z": 0 },
+        "modelFile": "models/pteris-biaurita.fbx",
+        "format": "fbx",
+        "status": "active",
+        "description": "Pakis pedang (Boston Fern) dengan helai daun menjuntai elegan, sering ditemukan di ekosistem tropis lembap dan bebatuan tepi sungai.",
+        "taxonomy": {
+          "kingdom": "Plantae",
+          "divisi": "Pteridophyta",
+          "famili": "Nephrolepidaceae",
+          "spesies": "Nephrolepis exaltata"
+        }
+      },
+      {
+        "id": "point-asplenium",
+        "code": "P-03",
+        "name": "Asplenium nidus",
+        "category": "Aspleniaceae",
+        "coord": { "x": 25, "y": 80, "z": 0 },
+        "modelFile": "models/pteris-biaurita.fbx",
+        "format": "fbx",
+        "status": "active",
+        "description": "Paku sarang burung adalah epifit hutan tropis dengan susunan daun membentuk mangkuk roset melingkar untuk menangkap serasah dan air.",
+        "taxonomy": {
+          "kingdom": "Plantae",
+          "divisi": "Pteridophyta",
+          "famili": "Aspleniaceae",
+          "spesies": "Asplenium nidus L."
+        }
+      }
+    ]
+  },
+  "portals": [
+    {
+      "id": "portal-pteris-biaurita",
+      "name": "Portal Flora: Pteris biaurita",
+      "description": "Pengalaman Augmented Reality interaktif tanaman pakis tropis Pteris biaurita (Pteridaceae).",
+      "modelIds": ["model-pteris-biaurita"],
+      "createdAt": "2026-11-08T12:00:00.000Z"
+    }
+  ],
+  "models": [
+    {
+      "id": "model-pteris-biaurita",
+      "name": "Pteris biaurita (FBX)",
+      "format": "fbx",
+      "description": "Pteris biaurita adalah jenis paku-pakuan terrestrial dari famili Pteridaceae.",
+      "filename": "pteris-biaurita.fbx",
+      "path": "models/pteris-biaurita.fbx",
+      "url": "models/pteris-biaurita.fbx",
+      "createdAt": "2026-11-08T12:00:00.000Z"
+    }
+  ],
+  "version": "2.0",
+  "updatedAt": "2026-11-08T15:00:00.000Z"
+}
