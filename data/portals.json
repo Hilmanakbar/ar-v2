@@ -112,6 +112,16 @@
       "path": "models/1794249034386_scene.gltf",
       "url": "https://raw.githubusercontent.com/Hilmanakbar/ar-v2/main/models/1794249034386_scene.gltf",
       "createdAt": "2026-11-09T18:30:37.274Z"
+    },
+    {
+      "id": "mwa4r4pjmx6zaet75w",
+      "name": "Pteris biaurita",
+      "format": "glb",
+      "description": "Pteris biaurita",
+      "filename": "1794281280201_Pteris_biaurita.glb",
+      "path": "models/1794281280201_Pteris_biaurita.glb",
+      "url": "https://raw.githubusercontent.com/Hilmanakbar/ar-v2/main/models/1794281280201_Pteris_biaurita.glb",
+      "createdAt": "2026-11-10T03:28:10.903Z"
     }
   ],
   "version": "2.0",
